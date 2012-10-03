@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phone Info</string>
+
+    <string name="model">model</string>
+
+    <string name="model_c">MODEL</string>
+    <string name="name_c">NAME</string>
+    <string name="os_c">OS</string>
+    <string name="screen_c">SCREEN</string>
+    <string name="year_c">YEAR</string>
+    <string name="cpu_c">CPU</string>
+    <string name="ram_c">RAM</string>
+    <string name="tier_c">TIER</string>
+
+    <string-array name="tiers">
+        <item>Freaking sweet</item>
+        <item>Pretty okay</item>
+        <item>Not a head-turner</item>
+        <item>Bad</item>
+        <item>Worst-of-the-worst</item>
+    </string-array>
+</resources>

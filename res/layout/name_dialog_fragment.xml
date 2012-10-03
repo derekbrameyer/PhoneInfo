@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        style="@style/FillWidth"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:oak="http://oak/oak/schema">
+    <oak.CancelEditText
+            style="@style/FillWidth"
+            android:id="@+id/phone_name_edit_text"
+            android:hint="Colonel Androidson"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            oak:cancelDrawable="@drawable/oak_ic_cancel"/>
+</LinearLayout>

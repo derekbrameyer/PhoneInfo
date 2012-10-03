@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="text_size_huge">72sp</dimen>
+    <dimen name="text_size_large">60sp</dimen>
+    <dimen name="text_size_h1">36sp</dimen>
+    <dimen name="text_size_h2">24sp</dimen>
+    <dimen name="text_size_vertical">18sp</dimen>
+    <dimen name="text_size_default">14sp</dimen>
+</resources>

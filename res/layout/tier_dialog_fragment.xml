@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        style="@style/FillWidth"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView
+            style="@style/FillWidth"
+            android:id="@+id/tier_list_view"/>
+</LinearLayout>
